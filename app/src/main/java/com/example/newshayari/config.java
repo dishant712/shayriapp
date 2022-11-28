@@ -3,7 +3,6 @@ package com.example.newshayari;
 import java.io.File;
 
 public class config {
-
     public  static File file;
 
                 public static  int[] colors = {
